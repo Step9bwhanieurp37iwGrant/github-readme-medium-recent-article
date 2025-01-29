@@ -101,3 +101,5 @@ To contrib to this project, you can open a PR or an issue.
 - Improve performance (2025/5/17)
 
 - Update documentation (2025/6/5)
+
+- Add unit tests (2025/1/29)
