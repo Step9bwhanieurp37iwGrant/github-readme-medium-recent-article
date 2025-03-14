@@ -91,3 +91,5 @@ To contrib to this project, you can open a PR or an issue.
 - Refactor code (2025/5/27)
 
 - Update README (2025/5/3)
+
+- Update documentation (2025/3/14)
