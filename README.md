@@ -111,3 +111,5 @@ To contrib to this project, you can open a PR or an issue.
 - Update documentation (2025/4/1)
 
 - Code cleanup (2025/5/31)
+
+- Fix minor bug (2025/3/17)
