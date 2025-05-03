@@ -89,3 +89,5 @@ To contrib to this project, you can open a PR or an issue.
 - Improve performance (2025/6/1)
 
 - Refactor code (2025/5/27)
+
+- Update README (2025/5/3)
