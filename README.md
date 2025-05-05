@@ -65,3 +65,5 @@ To contrib to this project, you can open a PR or an issue.
 - Update dependencies (2025/6/21)
 
 - Update README (2025/3/27)
+
+- Improve performance (2025/5/5)
