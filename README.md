@@ -105,3 +105,5 @@ To contrib to this project, you can open a PR or an issue.
 - Add unit tests (2025/1/29)
 
 - Update documentation (2025/3/30)
+
+- Refactor code (2025/5/12)
