@@ -75,3 +75,5 @@ To contrib to this project, you can open a PR or an issue.
 - Add new feature (2025/4/28)
 
 - Code cleanup (2025/3/29)
+
+- Update documentation (2025/5/26)
