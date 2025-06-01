@@ -85,3 +85,5 @@ To contrib to this project, you can open a PR or an issue.
 - Refactor code (2025/3/19)
 
 - Fix styling issue (2025/5/28)
+
+- Improve performance (2025/6/1)
