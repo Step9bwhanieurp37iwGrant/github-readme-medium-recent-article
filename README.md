@@ -57,3 +57,5 @@ To contrib to this project, you can open a PR or an issue.
 - Fix styling issue (2025/6/17)
 
 - Code cleanup (2025/6/18)
+
+- Add unit tests (2025/6/21)
