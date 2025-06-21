@@ -61,3 +61,5 @@ To contrib to this project, you can open a PR or an issue.
 - Add unit tests (2025/6/21)
 
 - Refactor code (2025/5/4)
+
+- Update dependencies (2025/6/21)
